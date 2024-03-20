@@ -17,6 +17,8 @@ https://github.com/mkm1671/ArcPRO_Videos/assets/90660299/0aed4e49-d5a7-464d-8aaa
 
 ### Exporting a Georeferenced PDF in ArcPro 
 
+[Vidoe Link Exporting a Georeferenced PDF](/pdf/Export.mp4)
+
 
 https://github.com/mkm1671/ArcPRO_Videos/assets/90660299/c5bf44ee-3a1b-401c-a7b6-79b4df9f10df
 
