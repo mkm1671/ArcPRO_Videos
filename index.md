@@ -1,15 +1,13 @@
-## Portfolio
+## Video Lessons
 
 ---
 
-### Capestone Project 
+### ArcPro Guide
 
 
-[Remote Sensing of Wetlands](/pdf/Martin_Final_Paper.pdf)
+[Creating a Shapefile](/pdf/ShapeFile.mp4)
 <img src="images/Photo1.0.jpg?raw=true"/>
 
-
-### Project Examples 
 
 [Rare and Unqiue Species Surveys](/pdf/FinalPaper_species_V2.pdf) 
 <img src="images/20200910_133559.jpg?raw=true"/>
