@@ -6,11 +6,17 @@
 
 
 [Creating a Shapefile](/pdf/ShapeFile.mp4)
-<img src="images/Photo1.0.jpg?raw=true"/>
 
 
-[Rare and Unqiue Species Surveys](/pdf/FinalPaper_species_V2.pdf) 
-<img src="images/20200910_133559.jpg?raw=true"/>
+https://github.com/mkm1671/ArcPRO_Videos/assets/90660299/0aed4e49-d5a7-464d-8aaa-1ca590b83ada
+
+
+
+[Export](/pdf/Export.mp4) 
+
+
+https://github.com/mkm1671/ArcPRO_Videos/assets/90660299/c5bf44ee-3a1b-401c-a7b6-79b4df9f10df
+
 
 
 [Mississippi Kite Statistical Distribution](/pdf/Final_Project_Martin.pdf)
