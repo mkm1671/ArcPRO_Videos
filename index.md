@@ -5,7 +5,7 @@
 ### ArcPro Guide
 
 
-### Creating a Shapefile in ArcPro "pdf/Export.mp4" 
+### Creating a Shapefile in ArcPro 
 [Video Link Creating a Shapefile](/pdf/ShapeFile.mp4)
 
 
