@@ -10,7 +10,9 @@
 
 https://github.com/mkm1671/ArcPRO_Videos/assets/90660299/0aed4e49-d5a7-464d-8aaa-1ca590b83ada
 
+### Georeferncing Plans in ArcPro 
 
+#### Coming soon! 
 
 ### Exporting a Georeferenced PDF in ArcPro 
 
