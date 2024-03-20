@@ -6,7 +6,7 @@
 
 
 ### Creating a Shapefile in ArcPro "pdf/Export.mp4" 
-[Vidoe Link Creating a Shapefile](/pdf/ShapeFile.mp4)
+[Video Link Creating a Shapefile](/pdf/ShapeFile.mp4)
 
 
 ### Georeferncing Plans in ArcPro 
@@ -15,7 +15,7 @@
 
 ### Exporting a Georeferenced PDF in ArcPro 
 
-[Vidoe Link Exporting a Georeferenced PDF](/pdf/Export.mp4)
+[Video Link Exporting a Georeferenced PDF](/pdf/Export.mp4)
 
 
 
