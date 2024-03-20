@@ -1,15 +1,9 @@
-title: Matt Martin # your name (or website title) here
+title: Arc Pro Video Guides # your name (or website title) here
 logo: "/images/seagrass.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Project Scientist at RK&K 
   <br><br>
-  Email: mkm1671@gmail.com
-  <br><br>
-  <br><br>
-  Biological Geographer 
-  <br><br>
-  <a href="https://www.linkedin.com/in/matt-martin-pws-80b80b77/">View My LinkedIn Profile</a> 
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
